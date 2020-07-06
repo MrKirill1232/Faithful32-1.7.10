@@ -724,6 +724,6 @@ gc.configgui.disableUpdateCheck=Disable Update Check
 
 gc.configgui.title=Galacticraft Core Config
 
-#MrKirill1232
+#MrKirill1232 
 entity.GalacticraftCore.EvolvedZombie.name=Evolved Zombie
 death.attack.solar=%s dead by Solar Radiation
